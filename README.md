@@ -1,4 +1,4 @@
-## Hi there, aou Fernando Barros👋
+## Hi there, sou Fernando Barros👋
 
 <br>
 
