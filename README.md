@@ -1,7 +1,9 @@
 ## Hi there, aou Fernando Barros👋
 
 Tenho 35 anos, me formei em análise e desenvolvimento de sistemas em 2014, porém estou longe da área desde 2017.
-Agora quero voltar para o mundo do TI, atualmente estou procurando oportunidades e estudando noite e dia para me atualizar e aprender as novas tecnologias do mercado de trabalho, tipo Javascript,  Git, GitHub por enquanto ...
+Agora quero voltar para o mundo do TI, estou procurando oportunidades e estudando noite e dia para me atualizar e aprender as novas tecnologias do mercado de trabalho, pretendo me tornar um desenvolvedor full stack muito em breve.
+
+Atualmente estou estudando Javascript, Git, GitHub por enquanto ...
 
 Tive a experiencia de trabalhar com HTML, CSS, PHP, SQL e até VBA.
 
