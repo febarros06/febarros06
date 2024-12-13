@@ -24,19 +24,10 @@ Tive a experiencia de trabalhar com algumas Tecnologias e ferramentas no meu tem
 
 Estou disposto a encarar novos desafios, é só entrar em contato 👇
 
-<a href="https://www.linkedin.com/in/fernando-barros-2140b344/"><img src="https://github.com/user-attachments/assets/57556b6a-7bd6-4b64-8537-7e21e9629486" align="left" alt="Meu perfil linkedin" /></a>
-
-<!--
-**febarros06/febarros06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="[https://www.youtube.com/channel/UCRbMSd-RCwg3-zSirZKvzww]" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/fernandobarros6" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://www.twitch.tv/febarros06]" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:febarros06@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/fernando-barros-2140b344/]" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
