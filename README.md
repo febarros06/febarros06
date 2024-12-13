@@ -7,7 +7,7 @@ Agora quero voltar para o mundo do TI, estou procurando oportunidades e estudand
 
 <br>
 
-Atualmente estou estudando Javascript, Git, GitHub por enquanto ...
+Atualmente estou estudando HTML, CSS, Javascript, Git, GitHub por enquanto ...
 
 <div>
           <a href="https://github.com/febarros06">
