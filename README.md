@@ -7,7 +7,7 @@ Atualmente estou estudando Javascript, Git, GitHub por enquanto ...
 
 Tive a experiencia de trabalhar com HTML, CSS, PHP, SQL e até VBA.
 
-Estou disposto a encarar novos desafios é só entrar em contato 👇
+Estou disposto a encarar novos desafios, é só entrar em contato 👇
 
 <a href="https://www.linkedin.com/in/fernando-barros-2140b344/"><img src="https://github.com/user-attachments/assets/57556b6a-7bd6-4b64-8537-7e21e9629486" align="left" alt="Meu perfil linkedin" /></a>
 
