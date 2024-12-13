@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Tenho 35 anos, me formei em análise e desenvolvimento de sistemas em 2014, porém estou longe da área desde 2017.
-Agora quero voltar para o mundo do TI, atualmente estou procurando oportunidades e estudando noite dia para me atualizar e aprender as novas tecnologias do mercado de trabalho.
+Agora quero voltar para o mundo do TI, atualmente estou procurando oportunidades e estudando noite e dia para me atualizar e aprender as novas tecnologias do mercado de trabalho.
 
 Estou disposto a encarar novos desafios é só entrar em contato 👇
 
