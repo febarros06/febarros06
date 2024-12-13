@@ -17,6 +17,9 @@ Tive a experiencia de trabalhar com algumas Tecnologias e ferramentas no meu tem
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+          
 </p>          
 
 Estou disposto a encarar novos desafios, é só entrar em contato 👇
